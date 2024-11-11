@@ -90,6 +90,7 @@ counter                  20    139.270     0.000      139.270 <none> (D)
 Instance: /counter
 Power Unit: W
 PDB Frames: /stim#0/frame#0
+
   -------------------------------------------------------------------------
     Category         Leakage     Internal    Switching        Total    Row%
   -------------------------------------------------------------------------
