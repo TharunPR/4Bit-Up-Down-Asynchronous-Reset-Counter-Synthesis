@@ -81,9 +81,6 @@ used.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 **Power Report:** <br>
 <br>
