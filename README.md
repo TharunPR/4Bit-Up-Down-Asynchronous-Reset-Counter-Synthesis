@@ -100,7 +100,7 @@ used.
 
 **Result:** <br>
 <br>
-The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
+&emsp;&emsp;The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
 
 
 
